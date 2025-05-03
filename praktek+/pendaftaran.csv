@@ -1,0 +1,6 @@
+id_pasien,nama,id_jadwal,status
+P001,Budi,J001,Menunggu
+P002,Ani,J001,Menunggu
+P003,Cici,J002,Selesai
+P004,Dodi,J002,Batal
+P005,Eka,J003,Menunggu

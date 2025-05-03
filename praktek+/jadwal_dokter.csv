@@ -1,0 +1,4 @@
+id_jadwal,id_dokter,hari,jam,kapasitas
+J001,D001,Senin,09:00-11:00,5
+J002,D001,Selasa,13:00-15:00,3
+J003,D002,Rabu,10:00-12:00,4
